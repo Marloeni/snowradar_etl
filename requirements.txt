@@ -1,0 +1,4 @@
+scrapy
+psycopg2-binary
+scrapy-camoufox
+cleantext
