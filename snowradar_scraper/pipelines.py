@@ -7,6 +7,7 @@
 # useful for handling different item types with a single interface
 import psycopg2
 import os
+import logging
 
 class SnowradarScraperPipeline:
     def process_item(self, item, spider):
@@ -18,17 +19,21 @@ class SkiresortPipeline:
             dbname=os.getenv('DB_NAME'),
             user=os.getenv('DB_USER'),
             password=os.getenv('DB_PASSWORD'),
-            host='127.0.0.1',
-            port='5432'
+            host=os.getenv('DB_HOST'),
+            port=os.getenv('DB_PORT')
         )
         self.cur = self.conn.cursor()
-        def process_item(self, item, spider):
+
+    def process_item(self, item, spider):
+        try:
             fields = ['name', 'slopes', 'lifts', 'snow', 'weather']
             self.cur.execute(f"INSERT INTO skiresort_details ({','.join(fields)}) VALUES ({','.join(['%s']*len(fields))})",
                 [item.get(f) for f in fields])
             self.conn.commit()
-            return item
+        except Exception as e:
+            logging.error(f"Error inserting item into database: {e}")
+        return item
 
-        def __del__(self):
-            if self.cur: self.cur.close()
-            if self.conn: self.conn.close()
+    def __del__(self):
+        if self.cur: self.cur.close()
+        if self.conn: self.conn.close()

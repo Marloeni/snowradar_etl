@@ -12,13 +12,6 @@ BOT_NAME = "snowradar_scraper"
 SPIDER_MODULES = ["snowradar_scraper.spiders"]
 NEWSPIDER_MODULE = "snowradar_scraper.spiders"
 
-SPIDER_MIDDLEWARES = {
-    'snowradar_scraper.middlewares.DataCleanerMiddleware': 543,
-}
-
-ITEM_PIPELINES = {
-    'snowradar_scraper.pipelines.SkiresortPipeline': 300,
-}
 
 DOWNLOAD_HANDLERS = {
     "http": "scrapy_camoufox.handler.ScrapyCamoufoxDownloadHandler",

@@ -104,25 +104,29 @@ class SnowradarScraperDownloaderMiddleware:
     def spider_opened(self, spider):
         spider.logger.info("Spider opened: %s" % spider.name)
 
+def clean(text, no_line_breaks=False):
+    text = text.strip()
+    if no_line_breaks:
+        text = text.replace('\n', ' ').replace('\r', ' ')
+    return text
 
 class DataCleanerMiddleware:
     def process_spider_output(self, response, result, spider):
-
         for item in result:
             if hasattr(item, 'fields'):
                 adapter = ItemAdapter(item)
 
                 # Name
                 if raw := adapter.get('name'):
-                    adapter['name'] = clean(raw, lower=False, no_line_breaks=True).replace('Ski slopes ', '').strip()
+                    adapter['name'] = clean(raw, no_line_breaks=True).replace('Ski slopes ', '').strip()
 
                 # Slopes
                 if raw := adapter.get('slopes'):
                     if nums := re.findall(r'[\d.]+', raw):
                         adapter['slopes'] = float(nums[0])
 
-                # Lifts, Snow, Webcams
-                for field in ['lifts', 'snow', 'webcams']:
+                # Lifts, Snow
+                for field in ['lifts', 'snow']:
                     if raw := adapter.get(field):
                         if nums := re.findall(r'\d+', raw):
                             adapter[field] = int(nums[0])

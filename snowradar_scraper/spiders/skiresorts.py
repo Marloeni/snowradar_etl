@@ -3,11 +3,13 @@ from snowradar_scraper.items import SkiresortItem
 
 class SkiresortsSpider(scrapy.Spider):
     name = "skiresorts"
-    allowed_domains = ["skiresort.info"]
     start_urls = ["https://skiresort.info/ski-resorts/"]
     custom_settings = {
         'ITEM_PIPELINES': {
             'snowradar_scraper.pipelines.SkiresortPipeline': 300,
+        },
+        'SPIDER_MIDDLEWARES': {
+            'snowradar_scraper.middlewares.DataCleanerMiddleware': 543,
         }
     }
 
@@ -18,29 +20,15 @@ class SkiresortsSpider(scrapy.Spider):
             yield scrapy.Request(url, self.parse_links)
 
     def parse_links(self, response):
-        # Debug: Print the full HTML content
-        print("="*50)
-        print("URL:", response.url)
-        print("Response body:")
-        print(response.body.decode())
-        print("="*50)
-
         links = response.css('a.pull-right.btn::attr(href)').getall()
         for link in links:
             yield scrapy.Request(response.urljoin(link), self.parse_details)
 
     def parse_details(self, response):
-        # Debug: Print the full HTML content
-        print("="*50)
-        print("URL:", response.url)
-        print("Response body:")
-        print(response.body.decode())
-        print("="*50)
-
         base = 'div.overview-resort-infos '
         item = SkiresortItem()
         selectors = {
-            'name': 'h2.h3.text-cut::text',
+            'name': 'h1.headlineoverview span.fn::text',
             'slopes': base + 'a[href*="snow-report"] .info-text::text',
             'lifts': base + 'a#resortInfo-lift .info-text::text',
             'snow': base + 'a[href*="snow-report"] .fa-snowflake-o + .info-text::text',
