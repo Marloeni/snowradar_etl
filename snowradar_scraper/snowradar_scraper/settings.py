@@ -12,28 +12,24 @@ BOT_NAME = "snowradar_scraper"
 SPIDER_MODULES = ["snowradar_scraper.spiders"]
 NEWSPIDER_MODULE = "snowradar_scraper.spiders"
 
-
 DOWNLOAD_HANDLERS = {
-    "http": "scrapy_camoufox.handler.ScrapyCamoufoxDownloadHandler",
-    "https": "scrapy_camoufox.handler.ScrapyCamoufoxDownloadHandler"
+    "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+    "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
 }
 
-CAMOUFOX_LAUNCH_OPTIONS = {
-    'headless': True,
-    'humanize': True,
-    'locale': 'en-US',
-    'block_images': True
+PLAYWRIGHT_LAUNCH_OPTIONS = {
+    "headless": False,
+} 
+
+ITEM_PIPELINES = {
+    'snowradar_scraper.pipelines.CleanDataPipeline': 300,
 }
-
-DOWNLOAD_DELAY = 2
-
-RANDOMIZE_DOWNLOAD_DELAY = True
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "snowradar_scraper (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
