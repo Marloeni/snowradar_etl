@@ -1,6 +1,6 @@
 import scrapy
 from scrapy_playwright.page import PageMethod
-from snowradar_scraper.items import SnowradarScraperItem
+from snowradar_scraper.items import OnthesnowItem
 
 class OnthesnowSpider(scrapy.Spider):
     name = "onthesnow"
@@ -30,8 +30,8 @@ class OnthesnowSpider(scrapy.Spider):
     def parse_country(self, response):
         rows = response.css("table.styles_table__0oUUB tbody tr")
         for row in rows:
-            item = SnowradarScraperItem()
-            item['resort_name'] = row.css("td a span.h4::text").get()
+            item = OnthesnowItem()
+            item['name'] = row.css("td a span.h4::text").get()
             item['snowfall_24h'] = row.css("td:nth-child(2) span.h4::text").get()
             item['base_depth'] = row.css("td:nth-child(3) span.h4::text").get()
             open_trails = row.css("td:nth-child(4) span.h4::text").get()

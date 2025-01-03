@@ -1,0 +1,46 @@
+from appwrite.client import Client
+from appwrite.services.databases import Databases
+from itemadapter import ItemAdapter
+from scrapy.exceptions import DropItem
+
+class OnthesnowStoragePipeline:
+    def __init__(self, appwrite_endpoint, appwrite_project, appwrite_key, collection_id):
+        self.client = Client()
+        self.client.set_endpoint(appwrite_endpoint).set_project(appwrite_project).set_key(appwrite_key)
+        self.database = Databases(self.client)
+        self.collection_id = collection_id
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(
+            appwrite_endpoint=crawler.settings.get('APPWRITE_ENDPOINT'),
+            appwrite_project=crawler.settings.get('APPWRITE_PROJECT'),
+            appwrite_key=crawler.settings.get('APPWRITE_KEY'),
+            collection_id=crawler.settings.get('APPWRITE_COLLECTION_ID')
+        )
+
+    def process_item(self, item, spider):
+        adapter = ItemAdapter(item)
+        required_fields = ['name', 'snowfall_24h', 'base_depth']
+        
+        if not all(adapter.get(field) for field in required_fields):
+            raise DropItem(f"Missing required fields in {item}")
+
+        document_data = {
+            'name': adapter.get('name'),
+            'snowfall_24h': float(adapter.get('snowfall_24h')),
+            'base_depth': float(adapter.get('base_depth')),
+            'open_trails': float(adapter.get('open_trails', 0)),
+            'total_trails': float(adapter.get('total_trails', 0)),
+            'open_lifts': float(adapter.get('open_lifts', 0)),
+            'total_lifts': float(adapter.get('total_lifts', 0))
+        }
+
+        self.database.create_document(
+            collection_id=self.collection_id,
+            document_id='unique()',  # Automatically generate a unique ID
+            data=document_data
+        )
+
+        return item
+    

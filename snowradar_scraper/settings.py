@@ -25,6 +25,11 @@ ITEM_PIPELINES = {
     'snowradar_scraper.pipelines.CleanDataPipeline': 300,
 }
 
+APPWRITE_ENDPOINT = 'http://localhost/v1'
+APPWRITE_PROJECT = '676ebea7001f5da0fb4a'
+APPWRITE_KEY = 'standard_fed19494a38cfbe01c7490d3b701ad4fef9205025dfd9e8217b42ef795eeec214f67b6726abb7ebfb33f0e4eb2d375552d8a15c3b6683e984c51aaec3e3d80c6bc7bb4fbd1755274c8ff837563b85d82592cc318d03aa1f5707503b402a2e6750f815a3ff4bc2610543bebed6a0d547e8bbc60f6235d4c2c1e6fbc55caf5169d'
+APPWRITE_COLLECTION_ID = '676ebea7001f5da0fb4a'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "snowradar_scraper (+http://www.yourdomain.com)"
 

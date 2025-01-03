@@ -5,8 +5,8 @@
 
 import scrapy
 
-class SnowradarScraperItem(scrapy.Item):
-    resort_name = scrapy.Field()
+class OnthesnowItem(scrapy.Item):
+    name = scrapy.Field()
     snowfall_24h = scrapy.Field()
     base_depth = scrapy.Field()
     open_trails = scrapy.Field()
