@@ -14,9 +14,6 @@ class OnthesnowSpider(scrapy.Spider):
                 meta={
                     "playwright": True,
                     "playwright_page_methods": [
-                        PageMethod("wait_for_selector", "#onetrust-accept-btn-handler"),
-                        PageMethod("click", "#onetrust-accept-btn-handler"),
-                        PageMethod("wait_for_selector", "button.styles_viewEU__VcoHT"),
                         PageMethod("click", "button.styles_viewEU__VcoHT"),
                     ],
                 },

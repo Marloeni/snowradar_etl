@@ -18,11 +18,11 @@ DOWNLOAD_HANDLERS = {
 }
 
 PLAYWRIGHT_LAUNCH_OPTIONS = {
-    "headless": False,
+    "headless": True,
 } 
 
 ITEM_PIPELINES = {
-    'snowradar_scraper.pipelines.CleanDataPipeline': 300,
+    'snowradar_scraper.pipelines.OnthesnowCleaningPipeline': 300,
 }
 
 APPWRITE_ENDPOINT = 'http://localhost/v1'
