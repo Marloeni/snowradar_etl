@@ -23,6 +23,7 @@ PLAYWRIGHT_LAUNCH_OPTIONS = {
 
 ITEM_PIPELINES = {
     'snowradar_scraper.pipelines.OnthesnowCleaningPipeline': 300,
+    'snowradar_scraper.pipelines.AppwritePipeline': 400,
 }
 
 APPWRITE_ENDPOINT = 'http://localhost/v1'
