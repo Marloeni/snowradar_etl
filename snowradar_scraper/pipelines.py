@@ -3,6 +3,7 @@ from scrapy.exceptions import DropItem
 from appwrite.client import Client
 from appwrite.services.databases import Databases
 from appwrite.id import ID
+from geopy.geocoders import Nominatim
 
 class OnthesnowCleaningPipeline:
     def process_item(self, item, spider):
@@ -38,7 +39,21 @@ class OnthesnowCleaningPipeline:
             return (self.clean_numeric(min_val) + self.clean_numeric(max_val)) / 2
         return self.clean_numeric(value)
     
-class AppwritePipeline:
+class OnthesnowGeolocationPipeline:
+    def __init__(self):
+        self.geolocator = Nominatim(user_agent="snowradar_scraper")
+
+    def process_item(self, item, spider):
+        adapter = ItemAdapter(item)
+        location = self.geolocator.geocode(adapter.get('name'))
+        if location:
+            adapter['latitude'] = location.latitude
+            adapter['longitude'] = location.longitude
+        else:
+            raise DropItem(f"Could not find location for {adapter.get('name')}")
+        return item
+    
+class OnthesnowAppwritePipeline:
     def __init__(self):
         self.client = Client()
         self.client.set_endpoint('http://localhost/v1')
@@ -57,8 +72,14 @@ class AppwritePipeline:
             'open_trails': adapter.get('open_trails'),
             'total_trails': adapter.get('total_trails'),
             'open_lifts': adapter.get('open_lifts'),
-            'total_lifts': adapter.get('total_lifts')
+            'total_lifts': adapter.get('total_lifts'),
+            'latitude': adapter.get('latitude'),
+            'longitude': adapter.get('longitude')
         }
+
+        # Remove keys with None values to avoid issues with missing attributes
+        document_data = {k: v for k, v in document_data.items() if v is not None}
+        
         self.databases.create_document(
             database_id=self.database_id,
             collection_id=self.collection_id,

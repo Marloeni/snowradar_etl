@@ -13,3 +13,5 @@ class OnthesnowItem(scrapy.Item):
     total_trails = scrapy.Field()
     open_lifts = scrapy.Field()
     total_lifts = scrapy.Field()
+    latitude = scrapy.Field()
+    longitude = scrapy.Field()
