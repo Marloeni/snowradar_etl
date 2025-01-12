@@ -1,0 +1,661 @@
+base_depth,name,open_lifts,open_trails,snowfall_24h,total_lifts,total_trails
+15.0,Berkshire East,2.0,18.0,0.0,6.0,100.0
+15.0,Blue Hills Ski Area,3.0,3.0,0.0,4.0,16.0
+15.0,Bousquet Ski Area,4.0,11.0,0.0,4.0,22.0
+16.0,Bradford Ski Area,5.0,5.0,0.0,10.0,15.0
+21.0,Jiminy Peak,6.0,23.0,2.0,9.0,45.0
+30.0,Nashoba Valley,5.0,11.0,0.0,10.0,17.0
+16.0,Otis Ridge Ski Area,4.0,11.0,0.0,4.0,11.0
+21.0,Ski Butternut,8.0,14.0,0.0,10.0,22.0
+36.0,Ski Ward,3.0,5.0,0.0,4.0,9.0
+37.0,Wachusett Mountain Ski Area,7.0,22.0,0.0,8.0,27.0
+0.0,Ski Blandford,0.0,0.0,0.0,0.0,29.0
+7.0,Big Moose Mountain,2.0,15.0,5.0,2.0,29.0
+0.0,Black Mountain of Maine,2.0,6.0,5.0,3.0,33.0
+0.0,Camden Snow Bowl,2.0,3.0,0.0,3.0,20.0
+0.0,Lost Valley,3.0,14.0,0.0,4.0,31.0
+9.0,Mt. Abram Ski Resort,3.0,9.0,0.0,5.0,54.0
+0.0,Mt. Jefferson,3.0,12.0,0.0,3.0,12.0
+12.0,Pleasant Mountain,4.0,27.0,2.0,6.0,43.0
+28.0,Saddleback Inc.,5.0,30.0,2.0,6.0,68.0
+14.5,Sugarloaf,1.0,33.0,0.0,15.0,170.0
+26.0,Sunday River,15.0,71.0,0.0,19.0,139.0
+0.0,New Hermon Mountain,0.0,0.0,0.0,0.0,0.0
+7.0,Wisp,6.0,12.0,1.0,12.0,33.0
+48.0,Arapahoe Basin Ski Area,7.0,86.0,7.0,9.0,145.0
+39.0,Aspen Snowmass,35.0,349.0,2.0,41.0,366.0
+35.0,Beaver Creek,18.0,150.0,1.0,24.0,150.0
+49.0,Breckenridge,34.0,142.0,6.0,35.0,189.0
+35.0,Cooper,4.0,55.0,4.0,5.0,64.0
+56.0,Copper Mountain,24.0,136.0,6.0,24.0,150.0
+45.0,Crested Butte Mountain Resort,14.0,108.0,0.0,15.0,165.0
+18.0,Echo Mountain,3.0,2.0,0.0,3.0,7.0
+20.0,Eldora Mountain Resort,9.0,26.0,9.0,10.0,61.0
+24.0,Howelsen Hill,3.0,15.0,0.0,4.0,17.0
+39.0,Keystone,21.0,106.0,3.0,21.0,140.0
+40.0,Loveland Ski Area,8.0,62.0,5.0,10.0,94.0
+47.0,Monarch Mountain,6.0,49.0,4.0,7.0,67.0
+33.0,Powderhorn,5.0,48.0,0.0,5.0,54.0
+32.0,Purgatory,10.0,91.0,0.0,11.0,107.0
+0.0,Silverton Mountain,0.0,0.0,0.0,0.0,69.0
+51.0,Ski Granby Ranch,5.0,28.0,3.0,5.0,42.0
+47.5,Steamboat,22.0,165.0,1.0,23.0,184.0
+23.0,Sunlight Mountain Resort,3.0,47.0,0.0,3.0,75.0
+31.0,Telluride,16.0,99.0,0.0,17.0,147.0
+42.0,Vail,27.0,245.0,1.0,33.0,278.0
+48.0,Winter Park,22.0,137.0,7.0,25.0,171.0
+40.5,Wolf Creek Ski Area,10.0,144.0,0.0,11.0,144.0
+15.0,Mohawk Mountain,5.0,10.0,0.0,8.0,27.0
+21.0,Mount Southington Ski Area,7.0,14.0,0.0,7.0,14.0
+36.0,Powder Ridge Park,3.0,11.0,0.0,6.0,20.0
+36.0,Ski Sundown,5.0,17.0,0.0,5.0,17.0
+0.0,Woodbury Ski Area,0.0,0.0,0.0,0.0,12.0
+31.0,Chestnut Mountain Resort,5.0,18.0,0.0,10.0,18.0
+0.0,Four Lakes,0.0,0.0,0.0,0.0,7.0
+15.0,Villa Olivia,0.0,4.0,0.0,0.0,7.0
+0.0,Ski Snowstar Winter Sports Park,0.0,0.0,0.0,0.0,0.0
+23.5,Perfect North Slopes,6.0,14.0,0.0,12.0,23.0
+15.0,Paoli Peaks,0.0,0.0,0.0,0.0,0.0
+56.0,Bogus Basin,9.0,91.0,0.0,10.0,92.0
+72.0,Brundage Mountain Resort,6.0,69.0,4.0,6.0,70.0
+20.0,Kelly Canyon Ski Area,3.0,9.0,0.0,6.0,51.0
+36.0,Lookout Pass Ski Area,5.0,49.0,4.0,5.0,54.0
+54.0,Magic Mountain Ski Area,3.0,11.0,0.0,4.0,11.0
+33.0,Pebble Creek Ski Area,3.0,24.0,0.0,3.0,54.0
+42.0,Pomerelle Mountain Resort,3.0,32.0,0.0,3.0,32.0
+69.0,Schweitzer,9.0,92.0,0.0,10.0,92.0
+71.0,Silver Mountain,6.0,80.0,2.0,7.0,80.0
+43.0,Soldier Mountain Ski Area,3.0,36.0,0.0,3.0,36.0
+44.5,Sun Valley,15.0,105.0,4.0,17.0,120.0
+69.0,Tamarack Resort,7.0,55.0,6.0,7.0,58.0
+15.0,Mt. Crescent Ski Area,2.0,5.0,0.0,2.0,11.0
+15.0,Seven Oaks,4.0,11.0,0.0,4.0,11.0
+11.0,Sundown Mountain,4.0,21.0,0.0,6.0,21.0
+21.0,Bear Mountain,3.0,0.0,0.0,7.0,26.0
+20.0,Bear Valley,6.0,44.0,0.0,10.0,122.0
+55.0,Boreal Mountain Resort,7.0,34.0,0.0,7.0,34.0
+2.5,Dodge Ridge,7.0,51.0,0.0,10.0,71.0
+40.0,Donner Ski Ranch,8.0,0.0,0.0,8.0,52.0
+37.0,Heavenly,10.0,90.0,0.0,27.0,114.0
+21.5,June Mountain,5.0,24.0,0.0,7.0,42.0
+41.0,Kirkwood,12.0,84.0,0.0,13.0,84.0
+56.5,Mammoth Mountain,23.0,176.0,0.0,24.0,178.0
+12.0,Mountain High,5.0,5.0,0.0,14.0,59.0
+25.0,Mt. Baldy,1.0,0.0,0.0,4.0,26.0
+60.0,Mt. Shasta Ski Park,6.0,38.0,6.0,6.0,38.0
+44.5,Northstar California,18.0,85.0,0.0,20.0,100.0
+42.5,Palisades Tahoe,36.0,226.0,0.0,36.0,270.0
+38.0,Sierra-at-Tahoe,9.0,40.0,0.0,14.0,47.0
+50.0,Ski China Peak,8.0,34.0,0.0,11.0,54.0
+30.0,Snow Summit,4.0,0.0,0.0,10.0,33.0
+18.0,Snow Valley,4.0,0.0,0.0,9.0,32.0
+50.0,Soda Springs,5.0,18.0,0.0,6.0,19.0
+55.0,Sugar Bowl Resort,11.0,103.0,0.0,12.0,105.0
+18.0,Tahoe Donner,4.0,8.0,0.0,5.0,17.0
+13.0,Arizona Snowbowl,8.0,24.0,0.0,8.0,61.0
+15.0,Sunrise Park Resort,3.0,7.0,0.0,8.0,65.0
+34.0,Alyeska Resort,7.0,29.0,0.0,7.0,76.0
+15.5,Eaglecrest Ski Area,1.0,2.0,1.0,4.0,37.0
+0.0,Hilltop Ski Area,0.0,0.0,0.0,0.0,0.0
+13.0,"Arizona Snowbowl, Arizona",8.0,24.0,0.0,8.0,61.0
+23.0,"Brian Head Resort, Utah",6.0,47.0,0.0,8.0,72.0
+8.0,"Lee Canyon, Nevada",4.0,4.0,0.0,5.0,28.0
+23.0,"Nordic Valley Resort, Utah",5.0,32.0,0.0,5.0,40.0
+12.0,"Pajarito Mountain Ski Area, New Mexico",3.0,24.0,0.0,6.0,53.0
+32.0,"Purgatory, Colorado",10.0,91.0,0.0,11.0,107.0
+6.0,"Sandia Peak, New Mexico",1.0,2.0,0.0,4.0,35.0
+11.5,"Sipapu Ski Resort, New Mexico",4.0,11.0,0.0,6.0,44.0
+48.0,"Willamette Pass, Oregon",5.0,30.0,0.0,6.0,30.0
+33.0,"Black Mountain, New Hampshire",3.0,14.0,0.0,5.0,68.0
+56.0,"Bogus Basin, Idaho",9.0,91.0,0.0,10.0,92.0
+40.0,"Caberfae Peaks, Michigan",5.0,27.0,1.0,5.0,30.0
+35.0,"Cooper, Colorado",4.0,55.0,4.0,5.0,64.0
+36.0,"Crystal Mountain, MI, Michigan",8.0,42.0,4.0,8.0,59.0
+25.0,"Eagle Point, Utah",4.0,0.0,0.0,5.0,40.0
+15.5,"Eaglecrest Ski Area, Alaska",1.0,2.0,1.0,4.0,37.0
+26.0,"Little Switzerland, Wisconsin",9.0,16.0,0.0,9.0,16.0
+0.0,"Lost Valley, Maine",3.0,14.0,0.0,4.0,31.0
+21.0,"Mount Southington Ski Area, Connecticut",7.0,14.0,0.0,7.0,14.0
+64.0,"Mt. Ashland, Oregon",6.0,43.0,0.0,6.0,44.0
+52.5,"Mt. Spokane Ski and Snowboard Park, Washington",6.0,52.0,1.0,8.0,55.0
+28.0,"Nordic Mountain, Wisconsin",7.0,16.0,0.0,7.0,16.0
+18.0,"Angel Fire Resort, New Mexico",7.0,26.0,0.0,7.0,86.0
+20.0,"Bear Valley, California",6.0,44.0,0.0,10.0,122.0
+33.0,"Blacktail Mountain Ski Area, Montana",4.0,13.0,1.0,4.0,27.0
+56.0,"Bogus Basin, Idaho",9.0,91.0,0.0,10.0,92.0
+37.0,"Castle Mountain, Alberta",5.0,88.0,0.0,6.0,94.0
+35.0,"Cooper, Colorado",4.0,55.0,4.0,5.0,64.0
+2.5,"Dodge Ridge, California",7.0,51.0,0.0,10.0,71.0
+15.5,"Eaglecrest Ski Area, Alaska",1.0,2.0,1.0,4.0,37.0
+27.0,"Lost Trail - Powder Mtn, Montana",5.0,69.0,6.0,5.0,69.0
+40.0,"Loveland Ski Area, Colorado",8.0,62.0,5.0,10.0,94.0
+24.0,"Marmot Basin, Alberta",7.0,61.0,0.0,7.0,91.0
+46.5,"Mission Ridge, Washington",6.0,55.0,1.0,7.0,70.0
+12.0,"Mountain High, California",5.0,5.0,0.0,14.0,59.0
+52.0,"Mt. Hood Skibowl, Oregon",5.0,15.0,0.0,10.0,69.0
+60.0,"Mt. Shasta Ski Park, California",6.0,38.0,6.0,6.0,38.0
+38.0,"Sierra-at-Tahoe, California",9.0,40.0,0.0,14.0,47.0
+71.0,"Silver Mountain, Idaho",6.0,80.0,2.0,7.0,80.0
+50.0,"Ski China Peak, California",8.0,34.0,0.0,11.0,54.0
+30.0,"Snow King Mountain, Wyoming",5.0,39.0,2.0,8.0,41.0
+105.0,"Timberline Lodge, Oregon",8.0,22.0,5.0,9.0,43.0
+24.0,"Red River, New Mexico",6.0,23.0,0.0,7.0,64.0
+23.0,"Sunlight Mountain Resort, Colorado",3.0,47.0,0.0,3.0,75.0
+27.0,"Yawgoo Valley, Rhode Island",3.0,5.0,0.0,4.0,13.0
+0.0,Whaleback Mountain,0.0,0.0,1.0,0.0,0.0
+16.0,Masella,9.0,30.0,0.0,20.0,69.0
+81.5,"White Pass, Washington",8.0,47.0,5.0,8.0,47.0
+18.0,"Angel Fire Resort, New Mexico",7.0,26.0,0.0,7.0,86.0
+15.0,"Bear Creek Mountain Resort, Pennsylvania",5.0,18.0,0.0,6.0,23.0
+56.0,"Beech Mountain Resort, North Carolina",7.0,11.0,0.0,10.0,17.0
+33.0,"Black Mountain, New Hampshire",3.0,14.0,0.0,5.0,68.0
+56.0,"Bogus Basin, Idaho",9.0,91.0,0.0,10.0,92.0
+72.0,"Brundage Mountain Resort, Idaho",6.0,69.0,4.0,6.0,70.0
+40.0,"Caberfae Peaks, Michigan",5.0,27.0,1.0,5.0,30.0
+36.0,"Crystal Mountain, MI, Michigan",8.0,42.0,4.0,8.0,59.0
+32.5,"Diamond Peak, Nevada",7.0,32.0,0.0,7.0,40.0
+25.0,"Eagle Point, Utah",4.0,0.0,0.0,5.0,40.0
+15.5,"Eaglecrest Ski Area, Alaska",1.0,2.0,1.0,4.0,37.0
+42.0,"Giants Ridge Resort, Minnesota",6.0,35.0,0.0,7.0,35.0
+15.5,"Great Divide, Montana",4.0,39.0,0.0,6.0,127.0
+20.0,"Greek Peak, New York",6.0,22.0,2.0,9.0,55.0
+24.0,"Hidden Valley Resort, Pennsylvania",6.0,16.0,0.0,8.0,30.0
+11.0,"Hogadon Basin, Wyoming",2.0,4.0,0.0,2.0,29.0
+22.5,"Holiday Valley, New York",9.0,34.0,9.0,13.0,60.0
+8.0,"Lee Canyon, Nevada",4.0,4.0,0.0,5.0,28.0
+26.0,"Little Switzerland, Wisconsin",9.0,16.0,0.0,9.0,16.0
+36.0,"Lookout Pass Ski Area, Idaho",5.0,49.0,4.0,5.0,54.0
+0.0,"Lost Valley, Maine",3.0,14.0,0.0,4.0,31.0
+40.0,"Loveland Ski Area, Colorado",8.0,62.0,5.0,10.0,94.0
+34.0,"Marquette Mountain, Michigan",3.0,8.0,0.0,4.0,32.0
+47.0,"Monarch Mountain, Colorado",6.0,49.0,4.0,7.0,67.0
+20.0,"Mont Ripley, Michigan",2.0,13.0,2.0,4.0,24.0
+18.0,"Mount Pleasant of Edinboro, Pennsylvania",2.0,3.0,12.0,2.0,10.0
+25.0,"Mt. Baldy, California",1.0,0.0,0.0,4.0,26.0
+15.0,"Mt. Crescent Ski Area, Iowa",2.0,5.0,0.0,2.0,11.0
+52.0,"Mt. Hood Skibowl, Oregon",5.0,15.0,0.0,10.0,69.0
+60.0,"Mt. Shasta Ski Park, California",6.0,38.0,6.0,6.0,38.0
+52.5,"Mt. Spokane Ski and Snowboard Park, Washington",6.0,52.0,1.0,8.0,55.0
+28.0,"Nordic Mountain, Wisconsin",7.0,16.0,0.0,7.0,16.0
+33.0,"Pebble Creek Ski Area, Idaho",3.0,24.0,0.0,3.0,54.0
+18.0,"Plattekill Mountain, New York",4.0,12.0,3.0,4.0,38.0
+41.0,"Powder Mountain, Utah",4.0,70.0,0.0,10.0,154.0
+33.0,"Powderhorn, Colorado",5.0,48.0,0.0,5.0,54.0
+24.0,"Red River, New Mexico",6.0,23.0,0.0,7.0,64.0
+15.0,"Seven Oaks, Iowa",4.0,11.0,0.0,4.0,11.0
+18.0,"Seven Springs, Pennsylvania",9.0,19.0,0.0,14.0,42.0
+4.0,"Ski Apache, New Mexico",2.0,10.0,0.0,11.0,55.0
+30.0,"Snow King Mountain, Wyoming",5.0,39.0,2.0,8.0,41.0
+18.0,"Snow Valley, California",4.0,0.0,0.0,9.0,32.0
+38.0,"Snowriver Mountain Resort, Michigan",6.0,28.0,0.0,13.0,71.0
+28.0,"Snowy Range Ski & Recreation Area, Wyoming",5.0,32.0,1.0,5.0,33.0
+36.0,"Sundance, Utah",9.0,65.0,0.0,9.0,72.0
+23.0,"Sunlight Mountain Resort, Colorado",3.0,47.0,0.0,3.0,75.0
+17.5,"Tussey Mountain, Pennsylvania",1.0,5.0,0.0,3.0,8.0
+18.0,"Whitecap Mountain, Wisconsin",1.0,2.0,0.0,5.0,43.0
+27.0,"Yawgoo Valley, Rhode Island",3.0,5.0,0.0,4.0,13.0
+0.0,Whaleback Mountain,0.0,0.0,1.0,0.0,0.0
+16.0,"Masella, Pirineo Catalán",9.0,30.0,0.0,20.0,69.0
+0.0,"Ski Snowstar Winter Sports Park, Illinois",0.0,0.0,0.0,0.0,0.0
+35.0,Banff Sunshine,12.0,105.0,0.0,12.0,145.0
+37.0,Castle Mountain,5.0,88.0,0.0,6.0,94.0
+36.0,Lake Louise,12.0,126.0,0.4,12.0,164.0
+24.0,Marmot Basin,7.0,61.0,0.0,7.0,91.0
+15.0,Mt. Norquay,5.0,18.0,0.0,6.0,60.0
+16.5,Nakiska Ski Area,6.0,38.0,0.0,6.0,75.0
+10.0,WinSport,6.0,3.0,0.0,7.0,6.0
+11.0,Antoine Mountain,1.0,5.0,0.8,1.0,15.0
+24.0,Blue Mountain,11.0,41.0,4.0,11.0,43.0
+9.0,Calabogie Peaks,2.0,6.0,0.0,3.0,25.0
+20.0,Glen Eden,4.0,11.0,0.0,7.0,13.0
+30.0,Hidden Valley,3.0,5.0,0.0,4.0,15.0
+26.0,Horseshoe Resort,5.0,22.0,12.0,6.0,26.0
+18.0,Loch Lomond,3.0,13.0,0.0,3.0,17.0
+20.0,Mt Pakenham,4.0,9.0,0.4,4.0,10.0
+22.0,Mt St Louis-Moonstone,12.0,34.0,3.0,12.0,35.0
+20.5,Searchmont Resort,5.0,22.0,4.0,5.0,26.0
+45.0,Apex Mountain,4.0,65.0,0.0,4.0,85.0
+56.0,Baldy Mountain,3.0,35.0,1.0,4.0,40.0
+61.0,Big White,16.0,119.0,0.8,16.0,119.0
+69.0,Cypress Mountain,4.0,10.0,2.0,6.0,61.0
+87.0,Fernie Alpine,9.0,142.0,0.4,10.0,142.0
+41.5,Grouse Mountain,4.0,8.0,1.0,6.0,34.0
+44.0,Hudson Bay Mountain,5.0,39.0,1.0,5.0,41.0
+51.5,Kicking Horse,4.0,129.0,1.0,5.0,129.0
+13.0,Kimberley,5.0,74.0,0.4,5.0,80.0
+42.5,Manning Park Resort,4.0,28.0,0.0,4.0,34.0
+43.5,Mt Seymour,4.0,7.0,2.0,5.0,41.0
+103.0,Mt Washington Alpine Resort,10.0,84.0,3.0,10.0,84.0
+22.5,Panorama Mountain,10.0,126.0,0.4,11.0,144.0
+67.0,Powder King,3.0,38.0,0.0,3.0,38.0
+68.0,Red Mountain,8.0,0.0,0.8,8.0,119.0
+71.0,Revelstoke,4.0,35.0,3.0,5.0,42.0
+71.0,Sasquatch Mountain Resort,3.0,0.0,3.0,4.0,35.0
+53.0,SilverStar,11.0,130.0,0.4,11.0,133.0
+35.0,Sun Peaks,13.0,137.0,0.8,13.0,137.0
+70.0,Whistler Blackcomb,26.0,234.0,1.0,27.0,234.0
+68.0,Whitewater Ski Resort,5.0,0.0,0.4,5.0,105.0
+0.0,Mount Timothy Recreation Resort,0.0,0.0,0.0,0.0,0.0
+76.0,Grand Targhee Resort,6.0,89.0,6.0,6.0,95.0
+11.0,Hogadon Basin,2.0,4.0,0.0,2.0,29.0
+46.5,Jackson Hole,13.0,112.0,6.0,13.0,131.0
+13.0,Meadowlark Ski Lodge,2.0,10.0,0.0,2.0,14.0
+30.0,Snow King Mountain,5.0,39.0,2.0,8.0,41.0
+28.0,Snowy Range Ski & Recreation Area,5.0,32.0,1.0,5.0,33.0
+36.0,White Pine Ski Area,2.0,29.0,1.0,2.0,29.0
+26.0,"Bromont, montagne d’expériences",9.0,45.0,4.0,11.0,110.0
+14.0,Camp Fortune,4.0,10.0,0.0,8.0,23.0
+18.0,Le Massif de Charlevoix,7.0,30.0,0.0,8.0,53.0
+0.0,Massif du Sud,2.0,6.0,0.0,2.0,35.0
+22.0,Mont Blanc,3.0,23.0,9.0,7.0,42.0
+20.0,Mont Cascades,5.0,7.0,0.0,6.0,21.0
+28.0,Mont Orford,5.0,29.0,10.0,7.0,43.0
+20.0,Mont Saint-Sauveur,7.0,20.0,0.0,8.0,42.0
+0.0,Mont Sainte Anne,7.0,37.0,2.0,9.0,71.0
+16.0,Mont Ste-Marie,4.0,13.0,0.0,4.0,20.0
+17.0,Mont Sutton,4.0,27.0,6.0,10.0,60.0
+24.0,Owl's Head,6.0,23.0,6.0,6.0,50.0
+18.0,Stoneham,5.0,13.0,0.4,6.0,43.0
+0.0,Tremblant,13.0,56.0,6.0,14.0,102.0
+16.0,Vorlage,3.0,4.0,0.0,4.0,20.0
+28.0,Canaan Valley Resort,4.0,9.0,1.0,6.0,47.0
+42.0,Snowshoe Mountain,12.0,33.0,1.0,12.0,61.0
+56.0,Timberline Mountain,2.0,20.0,0.0,4.0,20.0
+24.0,Winterplace Ski Resort,9.0,21.0,0.0,11.0,28.0
+14.0,Alpine Valley Resort,3.0,21.0,0.0,13.0,21.0
+36.0,Cascade Mountain,10.0,43.0,0.0,11.0,48.0
+15.0,Christie Mountain,2.0,23.0,0.0,6.0,33.0
+30.0,Devils Head,4.0,19.0,0.0,9.0,30.0
+20.0,Grand Geneva,5.0,19.0,0.0,6.0,20.0
+36.0,Granite Peak Ski Area,6.0,41.0,0.0,7.0,61.0
+26.0,Little Switzerland,9.0,16.0,0.0,9.0,16.0
+15.0,Mount La Crosse,4.0,19.0,0.0,4.0,19.0
+28.0,Nordic Mountain,7.0,16.0,0.0,7.0,16.0
+15.0,Sunburst,3.0,10.0,0.0,10.0,11.0
+21.0,Trollhaugen,9.0,18.0,0.0,9.0,30.0
+20.0,Tyrol Basin,5.0,12.0,0.0,6.0,24.0
+18.0,Whitecap Mountain,1.0,2.0,0.0,5.0,43.0
+12.0,Wilmot Mountain,5.0,9.0,0.0,11.0,21.0
+0.0,Bruce Mound,0.0,0.0,0.0,0.0,0.0
+0.0,Christmas Mountain,0.0,0.0,0.0,0.0,0.0
+24.0,Bryce Resort,3.0,8.0,0.0,4.0,8.0
+21.0,Massanutten,7.0,20.0,0.0,7.0,23.0
+22.5,Wintergreen Resort,5.0,16.0,0.0,5.0,27.0
+22.5,Bolton Valley,4.0,30.0,2.0,6.0,71.0
+19.5,Bromley Mountain,4.0,21.0,1.0,8.0,47.0
+21.5,Burke Mountain,3.0,7.0,2.0,4.0,55.0
+27.0,Jay Peak,5.0,30.0,12.0,9.0,81.0
+13.0,Killington Resort,15.0,96.0,4.0,22.0,155.0
+10.0,Mad River Glen,4.0,58.0,1.0,5.0,60.0
+14.5,Magic Mountain,3.0,16.0,1.0,5.0,50.0
+24.0,Mount Snow,10.0,40.0,5.0,19.0,86.0
+20.0,Okemo Mountain Resort,16.0,82.0,0.0,21.0,126.0
+12.5,Pico Mountain,6.0,46.0,4.0,7.0,61.0
+12.0,Saskadena Six,2.0,19.0,1.0,3.0,24.0
+25.0,Smugglers' Notch Resort,5.0,19.0,3.0,8.0,78.0
+27.0,Stowe Mountain,11.0,78.0,3.0,12.0,126.0
+15.0,Stratton Mountain,10.0,78.0,3.0,11.0,99.0
+36.0,Sugarbush,11.0,102.0,1.0,16.0,111.0
+57.0,49 Degrees North,6.0,90.0,1.0,7.0,90.0
+89.5,Alpental,5.0,18.0,1.0,6.0,24.0
+56.0,Bluewood,0.0,0.0,2.0,0.0,26.0
+65.5,Crystal Mountain,9.0,82.0,1.0,11.0,85.0
+46.5,Mission Ridge,6.0,55.0,1.0,7.0,70.0
+104.0,Mt. Baker,9.0,38.0,5.0,10.0,38.0
+52.5,Mt. Spokane Ski and Snowboard Park,6.0,52.0,1.0,8.0,55.0
+74.0,Stevens Pass Resort,12.0,52.0,1.0,12.0,52.0
+51.0,The Summit at Snoqualmie,13.0,60.0,1.0,20.0,65.0
+81.5,White Pass,8.0,47.0,5.0,8.0,47.0
+69.0,Alta Ski Area,5.0,90.0,1.0,5.0,118.0
+37.0,Beaver Mountain,6.0,48.0,0.0,6.0,48.0
+23.0,Brian Head Resort,6.0,47.0,0.0,8.0,72.0
+57.0,Brighton Resort,0.0,58.0,0.0,0.0,77.0
+42.0,Deer Valley Resort,21.0,76.0,6.0,24.0,103.0
+25.0,Eagle Point,4.0,0.0,0.0,5.0,40.0
+23.0,Nordic Valley Resort,5.0,32.0,0.0,5.0,40.0
+48.0,Park City,24.0,80.0,2.0,44.0,341.0
+41.0,Powder Mountain,4.0,70.0,0.0,10.0,154.0
+58.0,Snowbasin,10.0,91.0,0.0,13.0,114.0
+52.0,Snowbird,9.0,81.0,0.0,14.0,149.0
+54.0,Solitude Mountain Resort,5.0,49.0,7.0,8.0,86.0
+36.0,Sundance,9.0,65.0,0.0,9.0,72.0
+25.0,Ober Mountain Ski Area & Adventure Park,2.0,3.0,0.0,4.0,10.0
+19.0,Terry Peak Ski Area,4.0,7.0,0.0,5.0,30.0
+18.0,Angel Fire Resort,7.0,26.0,0.0,7.0,86.0
+12.0,Pajarito Mountain Ski Area,3.0,24.0,0.0,6.0,53.0
+24.0,Red River,6.0,23.0,0.0,7.0,64.0
+6.0,Sandia Peak,1.0,2.0,0.0,4.0,35.0
+11.5,Sipapu Ski Resort,4.0,11.0,0.0,6.0,44.0
+4.0,Ski Apache,2.0,10.0,0.0,11.0,55.0
+22.0,Ski Santa Fe,7.0,77.0,0.0,7.0,87.0
+20.0,Taos Ski Valley,12.0,25.0,0.0,13.0,110.0
+61.0,Appalachian Ski Mountain,6.0,7.0,0.0,6.0,9.0
+56.0,Beech Mountain Resort,7.0,11.0,0.0,10.0,17.0
+47.5,Cataloochee Ski Area,5.0,13.0,0.0,5.0,18.0
+25.0,Hatley Pointe,2.0,8.0,0.0,4.0,15.0
+27.5,Sapphire Valley,2.0,2.0,0.0,3.0,2.0
+61.0,Sugar Mountain Resort,5.0,13.0,0.0,7.0,20.0
+19.0,Belleayre,8.0,54.0,0.0,9.0,62.0
+0.0,Brantling Ski Slopes,3.0,0.0,0.0,5.0,10.0
+20.0,Bristol Mountain,5.0,20.0,1.0,6.0,39.0
+18.0,Buffalo Ski Club Ski Area,3.0,12.0,0.0,6.0,43.0
+0.0,Catamount,5.0,24.0,0.0,8.0,44.0
+12.5,Gore Mountain,10.0,32.0,0.0,14.0,108.0
+20.0,Greek Peak,6.0,22.0,2.0,9.0,55.0
+10.0,Holiday Mountain,2.0,4.0,0.0,4.0,6.0
+22.5,Holiday Valley,9.0,34.0,9.0,13.0,60.0
+22.0,Holimont Ski Area,8.0,33.0,0.0,8.0,55.0
+21.0,Hunt Hollow Ski Club,1.0,8.0,1.0,3.0,19.0
+18.0,Hunter Mountain,8.0,34.0,0.0,12.0,66.0
+20.0,Kissing Bridge,2.0,6.0,2.0,9.0,39.0
+37.0,Labrador Mt.,3.0,8.0,0.0,4.0,23.0
+36.0,Maple Ski Ridge,2.0,7.0,4.0,4.0,8.0
+20.0,McCauley Mountain Ski Center,3.0,4.0,6.0,5.0,23.0
+26.0,Mount Peter Ski Area,4.0,8.0,0.0,7.0,17.0
+15.0,Oak Mountain,3.0,8.0,0.0,4.0,22.0
+28.0,Peek'n Peak,7.0,12.0,13.0,9.0,26.0
+18.0,Plattekill Mountain,4.0,12.0,3.0,4.0,38.0
+15.0,Snow Ridge,2.0,2.0,1.0,5.0,33.0
+37.0,Song Mountain,3.0,10.0,4.0,5.0,24.0
+0.0,Swain,2.0,14.0,6.0,5.0,35.0
+15.0,Thunder Ridge,3.0,10.0,0.0,6.0,30.0
+20.0,Titus Mountain,3.0,22.0,2.0,8.0,53.0
+50.0,West Mountain,3.0,17.0,0.0,5.0,35.0
+28.0,Whiteface Mountain Resort,9.0,41.0,2.0,13.0,94.0
+14.0,Willard Mountain,0.0,0.0,0.0,0.0,16.0
+45.0,Windham Mountain,7.0,23.0,0.0,11.0,54.0
+24.0,Woods Valley Ski Area,5.0,12.0,2.0,6.0,21.0
+24.0,Royal Mountain Ski Area,0.0,0.0,0.0,0.0,16.0
+18.0,Dry Hill Ski Area,0.0,0.0,0.0,0.0,0.0
+0.0,Toggenburg Mountain,0.0,0.0,0.0,0.0,22.0
+15.0,Bear Creek Mountain Resort,5.0,18.0,0.0,6.0,23.0
+18.0,Big Boulder,2.0,8.0,0.0,8.0,16.0
+12.0,Blue Knob,1.0,3.0,2.0,6.0,34.0
+42.0,Blue Mountain Resort,7.0,32.0,0.0,16.0,40.0
+42.0,Camelback Mountain Resort,3.0,15.0,0.0,16.0,39.0
+40.0,Elk Mountain Ski Resort,4.0,19.0,0.0,7.0,27.0
+24.0,Hidden Valley Resort,6.0,16.0,0.0,8.0,30.0
+12.0,Jack Frost,5.0,11.0,0.0,9.0,20.0
+15.0,Liberty,5.0,14.0,0.0,7.0,21.0
+20.0,Montage Mountain,7.0,19.0,0.0,7.0,26.0
+18.0,Mount Pleasant of Edinboro,2.0,3.0,12.0,2.0,10.0
+12.0,Roundtop Mountain Resort,7.0,16.0,1.0,9.0,19.0
+18.0,Seven Springs,9.0,19.0,0.0,14.0,42.0
+15.0,Shawnee Mountain Ski Area,4.0,18.0,0.0,9.0,23.0
+15.0,Ski Big Bear,3.0,15.0,0.0,7.0,18.0
+18.0,Ski Sawmill,3.0,6.0,0.0,4.0,13.0
+28.0,Spring Mountain Ski Area,4.0,6.0,0.0,6.0,9.0
+17.5,Tussey Mountain,1.0,5.0,0.0,3.0,8.0
+24.0,Whitetail Resort,7.0,16.0,0.0,7.0,23.0
+48.0,Mountain Creek Resort,9.0,31.0,0.0,9.0,46.0
+0.0,Campgaw Mountain,0.0,0.0,0.0,0.0,0.0
+31.0,Attitash,5.0,27.0,0.0,10.0,68.0
+33.0,Black Mountain,3.0,14.0,0.0,5.0,68.0
+19.0,Bretton Woods,4.0,20.0,2.0,10.0,98.0
+66.0,Cannon Mountain,7.0,33.0,0.0,10.0,98.0
+19.5,Cranmore Mountain Resort,6.0,30.0,0.0,8.0,60.0
+24.0,Crotched Mountain,3.0,11.0,0.0,5.0,25.0
+9.0,Dartmouth Skiway,1.0,5.0,0.0,4.0,28.0
+30.0,Gunstock,8.0,35.0,0.0,8.0,49.0
+16.0,King Pine,4.0,15.0,0.0,5.0,17.0
+15.0,Loon Mountain,10.0,35.0,2.0,13.0,73.0
+12.0,Mount Sunapee,8.0,32.0,0.0,8.0,67.0
+12.0,Pats Peak,9.0,27.0,0.0,11.0,28.0
+20.0,Ragged Mountain Resort,5.0,20.0,2.0,5.0,57.0
+12.0,Tenney Mountain,1.0,5.0,0.0,3.0,48.0
+16.0,Waterville Valley,6.0,37.0,0.0,11.0,62.0
+12.0,Wildcat Mountain,1.0,7.0,1.0,5.0,48.0
+0.0,Whaleback Mountain,0.0,0.0,1.0,0.0,0.0
+12.0,Alpine Valley,3.0,6.0,0.0,5.0,8.0
+10.0,Boston Mills,3.0,3.0,0.0,8.0,6.0
+10.0,Brandywine,4.0,7.0,0.0,8.0,9.0
+8.0,Mad River Mountain,5.0,11.0,1.0,12.0,21.0
+28.0,Snow Trails,10.0,19.0,6.0,10.0,21.0
+50.0,Anthony Lakes Mountain Resort,1.0,21.0,8.0,3.0,21.0
+27.0,Cooper Spur,2.0,0.0,0.0,2.0,10.0
+66.0,Hoodoo Ski Area,5.0,36.0,0.0,5.0,36.0
+64.0,Mt. Ashland,6.0,43.0,0.0,6.0,44.0
+102.0,Mt. Bachelor,13.0,110.0,0.0,15.0,122.0
+106.0,Mt. Hood Meadows,8.0,40.0,3.0,12.0,87.0
+52.0,Mt. Hood Skibowl,5.0,15.0,0.0,10.0,69.0
+105.0,Timberline Lodge,8.0,22.0,5.0,9.0,43.0
+48.0,Willamette Pass,5.0,30.0,0.0,6.0,30.0
+0.0,Spout Springs,0.0,0.0,0.0,0.0,14.0
+49.0,Big Sky,39.0,267.0,3.0,39.0,317.0
+33.0,Blacktail Mountain Ski Area,4.0,13.0,1.0,4.0,27.0
+56.0,Bridger Bowl,11.0,105.0,6.0,11.0,105.0
+28.0,Discovery Ski Area,6.0,36.0,1.0,8.0,74.0
+15.5,Great Divide,4.0,39.0,0.0,6.0,127.0
+27.0,Lost Trail - Powder Mtn,5.0,69.0,6.0,5.0,69.0
+21.0,Maverick Mountain,1.0,0.0,5.0,2.0,22.0
+31.0,Montana Snowbowl,3.0,20.0,2.0,5.0,37.0
+8.0,Red Lodge Mountain,4.0,11.0,0.0,7.0,70.0
+30.0,Showdown Montana,4.0,39.0,5.0,4.0,39.0
+29.0,Teton Pass Ski Resort,0.0,0.0,3.0,0.0,43.0
+49.0,Whitefish Mountain Resort,12.0,96.0,1.0,14.0,111.0
+15.0,Alpine Valley Ski Area,4.0,14.0,1.0,14.0,25.0
+25.0,Big Powderhorn Mountain,4.0,14.0,0.0,10.0,45.0
+10.5,Bittersweet Ski Area,6.0,17.0,3.0,11.0,20.0
+25.0,Boyne Mountain Resort,7.0,24.0,3.0,10.0,65.0
+40.0,Caberfae Peaks,5.0,27.0,1.0,5.0,30.0
+35.0,Cannonsburg,4.0,9.0,0.0,10.0,22.0
+36.0,"Crystal Mountain, MI",8.0,42.0,4.0,8.0,59.0
+34.0,Marquette Mountain,3.0,8.0,0.0,4.0,32.0
+20.0,Mont Ripley,2.0,13.0,2.0,4.0,24.0
+27.0,Mount Bohemia,2.0,0.0,1.0,2.0,105.0
+13.0,Mount Holly,8.0,12.0,1.0,13.0,20.0
+13.0,Mt. Brighton,6.0,16.0,0.0,12.0,25.0
+18.0,Norway Mountain,0.0,6.0,0.0,0.0,17.0
+24.0,Nubs Nob Ski Area,8.0,35.0,0.0,10.0,53.0
+16.0,Pine Knob Ski Resort,9.0,16.0,2.0,13.0,17.0
+30.0,Pine Mountain,3.0,12.0,0.0,4.0,35.0
+36.0,Schuss Mountain at Shanty Creek,5.0,25.0,4.0,7.0,42.0
+42.0,Ski Brule,9.0,16.0,0.0,11.0,17.0
+25.0,Snow Snake Mountain Ski Area,5.0,10.0,0.0,6.0,12.0
+38.0,Snowriver Mountain Resort,6.0,28.0,0.0,13.0,71.0
+24.0,Swiss Valley,5.0,9.0,0.0,7.0,12.0
+34.0,The Highlands,8.0,38.0,3.0,8.0,54.0
+9.0,The Homestead,0.0,0.0,1.0,0.0,15.0
+26.0,Treetops Resort,4.0,18.0,0.0,4.0,27.0
+21.5,Timber Ridge,0.0,0.0,0.0,0.0,0.0
+0.0,Mt. Holiday Ski Area,0.0,0.0,0.0,0.0,0.0
+0.0,Mulligan's Hollow Ski Bowl,0.0,0.0,0.0,0.0,0.0
+0.0,Apple Mountain,0.0,0.0,0.0,0.0,12.0
+11.0,"3 Peaks Dolomites, Südtirol",31.0,69.0,0.0,31.0,79.0
+18.5,"Alpe di Siusi / Seiser Alm, Südtirol",23.0,74.0,0.0,23.0,74.0
+89.5,"Alpental, Washington",5.0,18.0,1.0,6.0,24.0
+18.0,"Alta Badia , Südtirol",52.0,83.0,2.0,53.0,114.0
+69.0,"Alta Ski Area, Utah",5.0,90.0,1.0,5.0,118.0
+34.0,"Alyeska Resort, Alaska",7.0,29.0,0.0,7.0,76.0
+14.0,"Arabba Marmolada, Veneto",22.0,37.0,0.0,28.0,43.0
+48.0,"Arapahoe Basin Ski Area, Colorado",7.0,86.0,7.0,9.0,145.0
+39.0,"Aspen Snowmass, Colorado",35.0,349.0,2.0,41.0,366.0
+35.0,"Banff Sunshine, Alberta",12.0,105.0,0.0,12.0,145.0
+21.0,"Bear Mountain, California",3.0,0.0,0.0,7.0,26.0
+49.0,"Big Sky, Montana",39.0,267.0,3.0,39.0,317.0
+24.0,"Blue Mountain, Ontario",11.0,41.0,4.0,11.0,43.0
+42.0,"Blue Mountain Resort, Pennsylvania",7.0,32.0,0.0,16.0,40.0
+25.0,"Boyne Mountain Resort, Michigan",7.0,24.0,3.0,10.0,65.0
+57.0,"Brighton Resort, Utah",0.0,58.0,0.0,0.0,77.0
+42.0,"Camelback Mountain Resort, Pennsylvania",3.0,15.0,0.0,16.0,39.0
+41.0,"Carezza Ski, Südtirol",13.0,25.0,0.4,13.0,25.0
+67.0,"Chamonix Mont-Blanc, Northern Alps",62.0,80.0,16.0,78.0,121.0
+13.0,"Comprensorio Ski Civetta, Veneto",18.0,30.0,0.0,23.0,52.0
+56.0,"Copper Mountain, Colorado",24.0,136.0,6.0,24.0,150.0
+10.0,"Cortina d'Ampezzo, Veneto",31.0,52.0,2.0,36.0,73.0
+65.5,"Crystal Mountain, Washington",9.0,82.0,1.0,11.0,85.0
+69.0,"Cypress Mountain, British Columbia",4.0,10.0,2.0,6.0,61.0
+42.0,"Deer Valley Resort, Utah",21.0,76.0,6.0,24.0,103.0
+20.0,"Eldora Mountain Resort, Colorado",9.0,26.0,9.0,10.0,61.0
+60.5,"Engadin St. Moritz, Graubunden",51.0,12.0,0.0,58.0,88.0
+2.5,"Gitschberg/Maranza - Jochtal/Valles, Südtirol",14.0,56.0,0.0,15.0,60.0
+26.5,"Grandvalira, Andorra",68.0,102.0,0.0,73.0,139.0
+46.5,"Jackson Hole, Wyoming",13.0,112.0,6.0,13.0,131.0
+21.5,"June Mountain, California",5.0,24.0,0.0,7.0,42.0
+13.0,"Killington Resort, Vermont",15.0,96.0,4.0,22.0,155.0
+27.0,"Kitzbühel, Tyrol",0.0,61.0,0.0,0.0,90.0
+36.0,"Lake Louise, Alberta",12.0,126.0,0.4,12.0,164.0
+15.0,"Loon Mountain, New Hampshire",10.0,35.0,2.0,13.0,73.0
+56.5,"Mammoth Mountain, California",23.0,176.0,0.0,24.0,178.0
+9.5,"Moena-Alpe Lusia-Bellamonte, Trentino",8.0,21.0,2.0,8.0,26.0
+102.0,"Mt. Bachelor, Oregon",13.0,110.0,0.0,15.0,122.0
+15.0,"Mt. Norquay, Alberta",5.0,18.0,0.0,6.0,60.0
+12.0,"Obereggen - Pampeago - Predazzo, Trentino",16.0,26.0,0.0,18.0,45.0
+42.5,"Palisades Tahoe, California",36.0,226.0,0.0,36.0,270.0
+22.5,"Panorama Mountain, British Columbia",10.0,126.0,0.4,11.0,144.0
+12.5,"Pico Mountain , Vermont",6.0,46.0,4.0,7.0,61.0
+7.0,"Plan de Corones / Kronplatz, Südtirol",31.0,48.0,0.0,31.0,49.0
+68.0,"Red Mountain, British Columbia",8.0,0.0,0.8,8.0,119.0
+71.0,"Revelstoke, British Columbia",4.0,35.0,3.0,5.0,42.0
+4.0,"San Martino di Castrozza - Passo Rolle, Trentino",25.0,33.0,0.0,25.0,38.0
+69.0,"Schweitzer, Idaho",9.0,92.0,0.0,10.0,92.0
+38.0,"Sierra-at-Tahoe, California",9.0,40.0,0.0,14.0,47.0
+30.0,"Snow Summit, California",4.0,0.0,0.0,10.0,33.0
+57.0,"49 Degrees North, Washington",6.0,90.0,1.0,7.0,90.0
+18.0,"Andes Tower Hills Ski Area, Minnesota",5.0,15.0,0.0,6.0,16.0
+45.0,"Apex Mountain, British Columbia",4.0,65.0,0.0,4.0,85.0
+36.0,"Axamer - Lizum, Tyrol",7.0,17.0,0.0,9.0,20.0
+56.0,"Baldy Mountain, British Columbia",3.0,35.0,1.0,4.0,40.0
+22.0,"Baqueira - Beret, Pirineo Catalán",34.0,80.0,0.0,36.0,116.0
+15.0,"Bear Creek Mountain Resort, Pennsylvania",5.0,18.0,0.0,6.0,23.0
+20.0,"Bear Valley, California",6.0,44.0,0.0,10.0,122.0
+37.0,"Beaver Mountain, Utah",6.0,48.0,0.0,6.0,48.0
+15.0,"Berkshire East, Massachusetts",2.0,18.0,0.0,6.0,100.0
+7.0,"Big Moose Mountain, Maine",2.0,15.0,5.0,2.0,29.0
+25.0,"Big Powderhorn Mountain, Michigan",4.0,14.0,0.0,10.0,45.0
+61.0,"Big White, British Columbia",16.0,119.0,0.8,16.0,119.0
+33.0,"Black Mountain, New Hampshire",3.0,14.0,0.0,5.0,68.0
+0.0,"Black Mountain of Maine, Maine",2.0,6.0,5.0,3.0,33.0
+33.0,"Blacktail Mountain Ski Area, Montana",4.0,13.0,1.0,4.0,27.0
+12.0,"Blue Knob, Pennsylvania",1.0,3.0,2.0,6.0,34.0
+56.0,"Bluewood, Washington",0.0,0.0,2.0,0.0,26.0
+22.5,"Bolton Valley, Vermont",4.0,30.0,2.0,6.0,71.0
+15.0,"Bousquet Ski Area, Massachusetts",4.0,11.0,0.0,4.0,22.0
+26.0,"Brixen im Thale - SkiWelt, Tyrol",80.0,200.0,2.0,81.0,228.0
+72.0,"Brundage Mountain Resort, Idaho",6.0,69.0,4.0,6.0,70.0
+24.0,"Bryce Resort, Virginia",3.0,8.0,0.0,4.0,8.0
+20.0,"Buck Hill, Minnesota",9.0,16.0,0.0,10.0,16.0
+21.5,"Burke Mountain, Vermont",3.0,7.0,2.0,4.0,55.0
+40.0,"Caberfae Peaks, Michigan",5.0,27.0,1.0,5.0,30.0
+9.0,"Calabogie Peaks, Ontario",2.0,6.0,0.0,3.0,25.0
+0.0,"Camden Snow Bowl, Maine",2.0,3.0,0.0,3.0,20.0
+14.0,"Camp Fortune, Quebec",4.0,10.0,0.0,8.0,23.0
+28.0,"Canaan Valley Resort, West Virginia",4.0,9.0,1.0,6.0,47.0
+66.0,"Cannon Mountain, New Hampshire",7.0,33.0,0.0,10.0,98.0
+37.0,"Castle Mountain, Alberta",5.0,88.0,0.0,6.0,94.0
+47.5,"Cataloochee Ski Area, North Carolina",5.0,13.0,0.0,5.0,18.0
+0.0,"Catamount, New York",5.0,24.0,0.0,8.0,44.0
+31.0,"Chestnut Mountain Resort, Illinois",5.0,18.0,0.0,10.0,18.0
+15.0,"Christie Mountain, Wisconsin",2.0,23.0,0.0,6.0,33.0
+27.0,"Cooper Spur, Oregon",2.0,0.0,0.0,2.0,10.0
+36.0,"Crystal Mountain, MI, Michigan",8.0,42.0,4.0,8.0,59.0
+9.0,"Dartmouth Skiway, New Hampshire",1.0,5.0,0.0,4.0,28.0
+2.5,"Dodge Ridge, California",7.0,51.0,0.0,10.0,71.0
+25.0,"Eagle Point, Utah",4.0,0.0,0.0,5.0,40.0
+15.5,"Eaglecrest Ski Area, Alaska",1.0,2.0,1.0,4.0,37.0
+18.0,"Echo Mountain, Colorado",3.0,2.0,0.0,3.0,7.0
+12.5,"Elferlifte Neustift, Tyrol",3.0,1.0,2.0,4.0,3.0
+26.0,"Ellmau - SkiWelt, Tyrol",80.0,200.0,2.0,81.0,228.0
+9.0,"Glungezer, Tyrol",6.0,6.0,6.0,7.0,10.0
+36.0,"Granite Peak Ski Area, Wisconsin",6.0,41.0,0.0,7.0,61.0
+20.0,"Greek Peak, New York",6.0,22.0,2.0,9.0,55.0
+25.0,"Hatley Pointe, North Carolina",2.0,8.0,0.0,4.0,15.0
+29.5,"Hochoetz, Tyrol",15.0,13.0,0.0,15.0,14.0
+0.0,Whaleback Mountain,0.0,0.0,1.0,0.0,0.0
+0.0,"Bruce Mound, Wisconsin",0.0,0.0,0.0,0.0,0.0
+0.0,"Mt. Holiday Ski Area, Michigan",0.0,0.0,0.0,0.0,0.0
+0.0,"Ski Snowstar Winter Sports Park, Illinois",0.0,0.0,0.0,0.0,0.0
+32.5,Diamond Peak,7.0,32.0,0.0,7.0,40.0
+8.0,Lee Canyon,4.0,4.0,0.0,5.0,28.0
+40.0,Mt. Rose - Ski Tahoe,7.0,50.0,0.0,8.0,67.0
+10.0,Hidden Valley Ski Area,0.0,0.0,0.0,0.0,0.0
+10.0,Snow Creek,0.0,0.0,0.0,0.0,0.0
+15.0,Afton Alps,11.0,20.0,0.0,21.0,37.0
+18.0,Andes Tower Hills Ski Area,5.0,15.0,0.0,6.0,16.0
+20.0,Buck Hill,9.0,16.0,0.0,10.0,16.0
+20.0,Buena Vista Ski Area,2.0,8.0,0.0,6.0,17.0
+42.0,Giants Ridge Resort,6.0,35.0,0.0,7.0,35.0
+36.0,Hyland Ski & Snowboard Area,7.0,14.0,0.0,7.0,14.0
+42.0,Lutsen Mountains,5.0,36.0,0.0,7.0,93.0
+27.0,Mount Kato Ski Area,4.0,9.0,4.0,10.0,19.0
+20.0,Powder Ridge Ski Area,6.0,15.0,0.0,7.0,20.0
+15.0,Spirit Mountain,5.0,22.0,0.0,7.0,22.0
+27.0,Welch Village,2.0,31.0,0.0,10.0,60.0
+15.0,Wild Mountain Ski & Snowboard Area,9.0,24.0,0.0,9.0,26.0
+0.0,Coffee Mill Ski & Snowboard Resort,0.0,0.0,0.0,0.0,0.0
+0.0,Elm Creek Winter Recreation Area,0.0,0.0,0.0,0.0,0.0
+15.0,"Afton Alps, Minnesota",11.0,20.0,0.0,21.0,37.0
+10.5,"Alpe Cimbra - Folgaria - Lavarone, Trentino",40.0,24.0,0.0,40.0,77.0
+12.0,"Alpine Valley, Ohio",3.0,6.0,0.0,5.0,8.0
+13.0,"Andalo - Fai della Paganella, Trentino",20.0,29.0,6.0,20.0,31.0
+31.0,"Attitash, New Hampshire",5.0,27.0,0.0,10.0,68.0
+35.0,"Beaver Creek, Colorado",18.0,150.0,1.0,24.0,150.0
+18.0,"Big Boulder, Pennsylvania",2.0,8.0,0.0,8.0,16.0
+10.0,"Boston Mills, Ohio",3.0,3.0,0.0,8.0,6.0
+10.0,"Brandywine, Ohio",4.0,7.0,0.0,8.0,9.0
+49.0,"Breckenridge, Colorado",34.0,142.0,6.0,35.0,189.0
+59.5,"Brides les Bains, Northern Alps",150.0,326.0,16.0,164.0,356.0
+52.0,"Courchevel, Northern Alps",54.0,0.0,14.0,54.0,109.0
+45.0,"Crested Butte Mountain Resort, Colorado",14.0,108.0,0.0,15.0,165.0
+24.0,"Crotched Mountain, New Hampshire",3.0,11.0,0.0,5.0,25.0
+22.5,"Disentis 3000, Graubunden",12.0,0.0,5.0,12.0,13.0
+87.0,"Fernie Alpine, British Columbia",9.0,142.0,0.4,10.0,142.0
+11.0,"Folgàrida - Marilléva, Trentino",23.0,34.0,0.0,24.0,41.0
+24.0,"Ghiacciaio Presena, Trentino",2.0,0.0,0.0,2.0,3.0
+37.0,"Heavenly, California",10.0,90.0,0.0,27.0,114.0
+24.0,"Hidden Valley Resort, Pennsylvania",6.0,16.0,0.0,8.0,30.0
+18.0,"Hunter Mountain, New York",8.0,34.0,0.0,12.0,66.0
+12.0,"Jack Frost, Pennsylvania",5.0,11.0,0.0,9.0,20.0
+39.0,"Keystone, Colorado",21.0,106.0,3.0,21.0,140.0
+51.5,"Kicking Horse, British Columbia",4.0,129.0,1.0,5.0,129.0
+13.0,"Kimberley, British Columbia",5.0,74.0,0.4,5.0,80.0
+41.0,"Kirkwood, California",12.0,84.0,0.0,13.0,84.0
+41.5,"La Tania, Northern Alps",54.0,76.0,12.0,54.0,109.0
+28.0,"La Tzoumaz - Savoleyres, Valais",8.0,0.0,9.0,9.0,14.0
+37.0,"Lech Zürs am Arlberg, Vorarlberg",85.0,34.0,6.0,88.0,141.0
+35.5,"Les Menuires, Northern Alps",1.0,0.0,24.0,31.0,89.0
+15.0,"Liberty, Pennsylvania",5.0,14.0,0.0,7.0,21.0
+8.0,"Mad River Mountain, Ohio",5.0,11.0,1.0,12.0,21.0
+26.5,"Madonna di Campiglio, Trentino",12.0,26.0,28.0,20.0,41.0
+55.5,"Meribel, Northern Alps",31.0,36.0,16.0,42.0,72.0
+0.0,"Mont Sainte Anne, Quebec",7.0,37.0,2.0,9.0,71.0
+10.0,"Monte Bondone, Trentino",3.0,11.0,0.0,4.0,16.0
+24.0,"Mount Snow, Vermont",10.0,40.0,5.0,19.0,86.0
+12.0,"Mount Sunapee, New Hampshire",8.0,32.0,0.0,8.0,67.0
+13.0,"Mt. Brighton, Michigan",6.0,16.0,0.0,12.0,25.0
+16.5,"Nakiska Ski Area, Alberta",6.0,38.0,0.0,6.0,75.0
+17.5,"Nendaz, Valais",1.0,0.0,0.0,20.0,24.0
+44.5,"Northstar California, California",18.0,85.0,0.0,20.0,100.0
+20.0,"Okemo Mountain Resort, Vermont",16.0,82.0,0.0,21.0,126.0
+48.0,"Park City, Utah",24.0,80.0,2.0,44.0,341.0
+23.5,"Pejo, Trentino",7.0,12.0,0.0,7.0,16.0
+9.0,"Pinzolo, Trentino",12.0,17.0,0.0,14.0,19.0
+22.0,"Pontedilegno - Tonale, Trentino",29.0,36.0,0.0,30.0,41.0
+12.0,"Roundtop Mountain Resort, Pennsylvania",7.0,16.0,1.0,9.0,19.0
+28.0,"Saint Martin de Belleville, Northern Alps",31.0,79.0,0.0,31.0,83.0
+18.0,"Seven Springs, Pennsylvania",9.0,19.0,0.0,14.0,42.0
+10.0,"Hidden Valley Ski Area, Missouri",0.0,0.0,0.0,0.0,0.0
+15.0,"Paoli Peaks, Indiana",0.0,0.0,0.0,0.0,0.0
+10.0,"Snow Creek, Missouri",0.0,0.0,0.0,0.0,0.0
+69.0,"Orelle, Northern Alps",25.0,80.0,0.0,29.0,85.0
+39.5,"Sonnenkopf, Vorarlberg",9.0,15.0,0.0,9.0,17.0
+69.0,"Alta Ski Area, Utah",5.0,90.0,1.0,5.0,118.0
+48.0,"Arapahoe Basin Ski Area, Colorado",7.0,86.0,7.0,9.0,145.0
+39.0,"Aspen Snowmass, Colorado",35.0,349.0,2.0,41.0,366.0
+35.0,"Banff Sunshine, Alberta",12.0,105.0,0.0,12.0,145.0
+49.0,"Big Sky, Montana",39.0,267.0,3.0,39.0,317.0
+67.0,"Chamonix Mont-Blanc, Northern Alps",62.0,80.0,16.0,78.0,121.0
+76.0,"Grand Targhee Resort, Wyoming",6.0,89.0,6.0,6.0,95.0
+46.5,"Jackson Hole, Wyoming",13.0,112.0,6.0,13.0,131.0
+36.0,"Lake Louise, Alberta",12.0,126.0,0.4,12.0,164.0
+18.0,"Le Massif de Charlevoix, Quebec",7.0,30.0,0.0,8.0,53.0
+24.0,"Marmot Basin, Alberta",7.0,61.0,0.0,7.0,91.0
+22.5,"Panorama Mountain, British Columbia",10.0,126.0,0.4,11.0,144.0
+71.0,"Revelstoke, British Columbia",4.0,35.0,3.0,5.0,42.0
+58.0,"Snowbasin, Utah",10.0,91.0,0.0,13.0,114.0
+52.0,"Snowbird, Utah",9.0,81.0,0.0,14.0,149.0
+55.0,"Sugar Bowl Resort, California",11.0,103.0,0.0,12.0,105.0
+14.5,"Sugarloaf, Maine",1.0,33.0,0.0,15.0,170.0
+35.0,"Sun Peaks, British Columbia",13.0,137.0,0.8,13.0,137.0
+44.5,"Sun Valley, Idaho",15.0,105.0,4.0,17.0,120.0
+20.0,"Taos Ski Valley, New Mexico",12.0,25.0,0.0,13.0,110.0

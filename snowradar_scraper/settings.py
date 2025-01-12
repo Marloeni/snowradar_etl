@@ -24,7 +24,7 @@ PLAYWRIGHT_LAUNCH_OPTIONS = {
 ITEM_PIPELINES = {
     'snowradar_scraper.pipelines.OnthesnowCleaningPipeline': 300,
     'snowradar_scraper.pipelines.OnthesnowGeolocationPipeline': 400,
-    'snowradar_scraper.pipelines.OnthesnowAppwritePipeline': 500,
+    #'snowradar_scraper.pipelines.OnthesnowAppwritePipeline': 500,
 }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
